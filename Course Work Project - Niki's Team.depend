@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1691861502 source:c:\codeblocks\niki\course work project - niki's team\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
